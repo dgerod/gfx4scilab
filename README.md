@@ -1,8 +1,6 @@
-# Graphics Toolbox for Scilab
+# gfx4scilab: a Graphics Goolbox for [Scilab](http://www.scilab.org)
 
 It is composed by three modules:
 * Logger
-* User interface
 * Drawing
-
-
+* User interface
