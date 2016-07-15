@@ -15,6 +15,8 @@ function [RefFrame] = dw_RefFrame_create(Len, T)
     
   return [RefFrame];
 
+endfunction 
+
 // -----------------------------------------------------------------------------
 
 function [RefFrame] = dw_RefFrame_attachTo(RefFrame, P)
@@ -28,7 +30,7 @@ endfunction
 // -----------------------------------------------------------------------------
 
 function [Points] = dw_RefFrame_getPoints(RefFrame)
-  
+  Points = 0;
 endfunction
 
 // -----------------------------------------------------------------------------
