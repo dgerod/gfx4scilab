@@ -1,4 +1,4 @@
 #  Third party code
-* RTSS: the Robotics Toolbox for Scilab/Scicos, M. Morelli, 2011, http://rtss.sourceforge.net
+* [RTSS: the Robotics Toolbox for Scilab/Scicos](http://rtss.sourceforge.net). M. Morelli, Research Center Piaggio, 2011. 
 
 
